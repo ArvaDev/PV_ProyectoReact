@@ -1,0 +1,3 @@
+const daw = 'DAW es la sigla de "Digital Audio Workstation" en inglés, que se traduce al español como "Estación de Trabajo de Audio Digital." Un DAW es un software o aplicación informática que se utiliza para grabar, editar y producir música y audio digitalmente. Los DAWs son herramientas esenciales para músicos, productores de música y técnicos de sonido en la creación y manipulación de sonidos y pistas de audio en el entorno digital.'
+
+export default daw;

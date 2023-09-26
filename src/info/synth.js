@@ -1,0 +1,3 @@
+const synth = "Un Synth o sintetizador es un instrumento que se caracteriza por implementar ondas generadas de forma artificial sin la necesidad de un instrumento, en primera instancia estos se crearon con el fin de experimentar en el ambito musical a partir de finales del siglo XIX e inicios del XX. Actualmente todo los sintetizadores utilizados son digitales por ende necesitan de un equipo de computo para ser utilizados"
+
+export default synth
